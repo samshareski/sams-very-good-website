@@ -1,0 +1,16 @@
+{
+  "name": "sams-very-good-blog",
+  "version": "1.0.0",
+  "description": "my very good blog",
+  "scripts": {
+    "serve": "serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samshareski/sams-very-good-blog.git"
+  },
+  "author": "Sam Shareski",
+  "dependencies": {
+    "serve": "^9.4.2"
+  }
+}
